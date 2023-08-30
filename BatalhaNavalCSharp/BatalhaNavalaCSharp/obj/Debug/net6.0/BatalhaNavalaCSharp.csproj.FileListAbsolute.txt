@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\bin\Debug\net6.0\BatalhaNavalaCSharp.exe
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\bin\Debug\net6.0\BatalhaNavalaCSharp.deps.json
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\bin\Debug\net6.0\BatalhaNavalaCSharp.runtimeconfig.json
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\bin\Debug\net6.0\BatalhaNavalaCSharp.dll
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\bin\Debug\net6.0\BatalhaNavalaCSharp.pdb
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.AssemblyInfo.cs
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.dll
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\refint\BatalhaNavalaCSharp.dll
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.pdb
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\BatalhaNavalaCSharp.genruntimeconfig.cache
+C:\Users\aluno\source\repos\BatalhaNavalaCSharp\BatalhaNavalaCSharp\obj\Debug\net6.0\ref\BatalhaNavalaCSharp.dll
