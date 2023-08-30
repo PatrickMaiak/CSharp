@@ -1,2 +1,3 @@
 como jogar: escolha a posição dos seus navios e depois bombardeie o inimigo que é o cpu
-ele ainda não reage 
+ele ainda não reage quando ele reagir tem que fazer um vencedor e um codigo que diga sea posicao do navio do cpu for a mesma que a do player 
+ele nao pode sar que aqeula posiçao ja foi usada mas tbm n pode ficar no mesmo lugar
