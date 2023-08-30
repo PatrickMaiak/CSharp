@@ -5,11 +5,11 @@
         static void Main(string[] args)
         {
             string[,] grade = new string[11, 11];
-            //grade[0, 0] = "x";                
+            grade[0, 0] = "x";                
             preencher(grade);
 
-            //vencedor();
-            //listarMatriz(grade);
+            // vencedor();
+            listarMatriz(grade);
 
 
             //jogar
